@@ -1,0 +1,11 @@
+
+¢%squid:RedundantThrowsDeclarationCheckJ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıÈ’˜ıÿÿÿÿ
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„­–æùÿÿÿÿ8½¸ÀÓı,
+9squid:S1148@"#Use a logger to log this exception.(ˆñA
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àó­şÿÿÿÿ8½¸ÀÓı,
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(û‚‘ç8½¸ÀÓı,
+nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş™æÇüÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck("lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(«œ©:8¦ÛÀÓı,
+©%squid:RedundantThrowsDeclarationCheckC"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ş™æÇüÿÿÿÿ8¦ÛÀÓı,
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÂŸã–8±…ÁÓı,
